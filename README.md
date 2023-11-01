@@ -6,3 +6,10 @@ I wrote it to simplify the extracting and selection of recipe links for loading 
 
 "International Appointments.py"
 Is a utility I wrote to list times around the world of destinations I have friends and family.
+
+"flight time2.py" and Flights.xlsx
+Is a utility I wrote to convert airline arrival and departure times on my travel schedule to local dates and times for relatives in Australia wanting to track the trip.
+
+"HEIC_to_JPG.py"
+Is a utility I wrote to convert HEIC pictures to JPG format. 
+
