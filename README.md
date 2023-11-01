@@ -13,3 +13,15 @@ Is a utility I wrote to convert airline arrival and departure times on my travel
 "HEIC_to_JPG.py"
 Is a utility I wrote to convert HEIC pictures to JPG format. 
 
+**Using a Google API for YOUTube.**
+
+Extracting Youtube links and details from Saved Playlist for Python, HTML and CSS videos to sqlite
+  Program : "2 YouTube Python sqlite.py"
+  Utility Programs (that I haven't automated - because they're only run once) are:
+    "YT Create sqlite.py" to create tables in sqlite
+    "YT Create sqlite Indexes.py" to create indexes
+    "YT Query sqlite.py" to create a query
+
+Similar YouTube program for downloading python, HTML and CSS video links are:
+  "1 YouTube Python.py", data is written to :
+  "YouTube python.accdb"
