@@ -25,3 +25,21 @@ Extracting Youtube links and details from Saved Playlist for Python, HTML and CS
 Similar YouTube program for downloading python, HTML and CSS video links are:
   "1 YouTube Python.py", data is written to :
   "YouTube python.accdb"
+
+**Weather Data **
+  captured in "Townsville Forecast.xlsm"
+  Archived in same file. 
+  used to demo Power Query Editor, **Pandas** and **MatPlotlib** functionality
+    with "Read Weather.py"
+
+  Excel Example.
+  **Power Query Editor**
+    Processes the Same data in "Forecast Data.xlsx 
+      The same file uses Power Query Editor to cleanse / process the data for formats suitable for Simple charting. 
+
+**Capturing Financial Exchange rates**
+    From the RBA : "RBA 07.py"
+    Graphing Candian and USA Exchange Rates : "Canadian and USA Exchange.py"
+    Sample Output : "Exchange Rate Graph.png" 
+
+  
