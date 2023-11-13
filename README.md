@@ -42,4 +42,8 @@ Similar YouTube program for downloading python, HTML and CSS video links are:
     Graphing Candian and USA Exchange Rates : "Canadian and USA Exchange.py"
     Sample Output : "Exchange Rate Graph.png" 
 
-  
+**PowerBI**
+  There are 3 PowerBI examples:
+    One for Australian Foreign Exchange Rates with USA, Great Britian, EU and New Zealand "Foreign Exchange Rates for Australia.pbix"
+    The second for tracking weather data in Townsville "Data Forecasts.pbix'
+    And third to demonstrate data from a SQLite database "YouTube py lite.pbix"
